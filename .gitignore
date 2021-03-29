@@ -165,3 +165,5 @@ $RECYCLE.BIN/
 *.lnk
 
 config.json
+
+cmd.exe
