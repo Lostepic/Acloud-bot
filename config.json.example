@@ -1,2 +1,4 @@
-"token": "Bot tken here",
+{
+  "token": "Bot tken here",
   "prefix": "!"
+}
